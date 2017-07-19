@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contas</string>
+
+    <string-array name="tipo_contas">
+        <item>Tipo da Conta</item>
+        <item>Receita</item>
+        <item>Despesa</item>
+    </string-array>
+
+</resources>
